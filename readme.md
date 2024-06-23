@@ -10,7 +10,7 @@ Hello! I'm Nishanth, a recent graduate with a keen interest in data analysis and
 ### Project 1: CodeX India: SQL Market Insights 🥤
 - **Description:** focusing on conducting a market analysis for CodeX, a German beverage company entering the Indian market
 - **Technologies used:** SQL
-- **Link:** [GitHub Repository]((https://github.com/Nishanth-2863/CodeX-India-SQL-Market-Insights))
+- **Link:** [GitHub Repository](https://github.com/Nishanth-2863/CodeX-India-SQL-Market-Insights)
 
 ### Project 2: Pizza Ordering System🍕
 - **Description:** This system is built using object-oriented programming principles in Python, providing a structured and modular approach to manage pizza orders.
